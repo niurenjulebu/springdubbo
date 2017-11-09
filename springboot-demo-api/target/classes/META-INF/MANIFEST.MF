@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-demo-api
+Implementation-Version: 1.0
+Built-By: Administrator
+Implementation-Vendor-Id: com.alibaba.edas.springboot
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-d
+ emo-parent/springboot-demo-api/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
